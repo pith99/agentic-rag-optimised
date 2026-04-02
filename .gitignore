@@ -1,0 +1,23 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cursor IDE
+.cursor/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test cache
+.pytest_cache/
+
+# Logs
+*.log
